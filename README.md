@@ -1,4 +1,5 @@
 # 감정일기장 Clone Coding
+![thumbnail](https://github.com/user-attachments/assets/3cd7e1d7-d212-42cc-b68d-c37b408ab45e)
 - React.js v18.3.1
 - node.js v22.12.0
 - vite v4.3.4
